@@ -1,0 +1,1351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+<logentry
+   revision="6696">
+<author>wtsai9</author>
+<date>2016-10-06T01:49:33.253156Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/wtsai9/Assignment2.1/src/nodes.py</path>
+</paths>
+<msg>delete</msg>
+</logentry>
+<logentry
+   revision="6695">
+<author>wtsai9</author>
+<date>2016-10-06T01:47:33.055007Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment2.1/.pydevproject</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment2.1/src/test.py</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment2.1/src/airGUI.py</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment2.1/src/graph.py</path>
+<path
+   kind="dir"
+   action="A">/wtsai9/Assignment2.1</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment2.1/.project</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment2.1/src/cmi_hub.json</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment2.1/src/map_data.json</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment2.1/src/nodes.py</path>
+<path
+   kind="dir"
+   action="A">/wtsai9/Assignment2.1/src</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment2.1/src/data_test.json</path>
+</paths>
+<msg>User edit and shortest path implemented</msg>
+</logentry>
+<logentry
+   revision="6101">
+<author>wtsai9</author>
+<date>2016-09-29T01:41:52.639464Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/wtsai9/Assignment2.0/test.py</path>
+<path
+   kind="file"
+   action="D">/wtsai9/Assignment2.0/airGUI.py</path>
+<path
+   kind="file"
+   action="D">/wtsai9/Assignment2.0/graph.py</path>
+<path
+   kind="file"
+   action="D">/wtsai9/Assignment2.0/map_data.json</path>
+<path
+   kind="file"
+   action="D">/wtsai9/Assignment2.0/nodes.py</path>
+<path
+   kind="file"
+   action="D">/wtsai9/Assignment2.0/data_test.json</path>
+</paths>
+<msg>changes</msg>
+</logentry>
+<logentry
+   revision="6100">
+<author>wtsai9</author>
+<date>2016-09-29T01:38:33.199389Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/wtsai9/Assignment2.0/src</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment2.0/src/data_test.json</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment2.0/.pydevproject</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment2.0/src/test.py</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment2.0/src/airGUI.py</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment2.0/src/graph.py</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment2.0/.project</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment2.0/src/map_data.json</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment2.0/src/nodes.py</path>
+</paths>
+<msg>CSAir statistic</msg>
+</logentry>
+<logentry
+   revision="5462">
+<author>wtsai9</author>
+<date>2016-09-22T06:16:58.754665Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/wtsai9/Assignment1.2/bin/chessGame/tests</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.2/images/b_bishop.png</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.2/images/b_knight.png</path>
+<path
+   action="A"
+   kind="dir">/wtsai9/Assignment1.2/.settings</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.2/src/chessGame/Rook.java</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.2/bin/chessGame/Ferz.class</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.2/images/b_king.png</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.2/src/userInterface/GameController.java</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.2/images/w_pawn.png</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.2/bin/chessGame/Pieces.class</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.2/.project</path>
+<path
+   kind="dir"
+   action="A">/wtsai9/Assignment1.2/src/userInterface</path>
+<path
+   action="A"
+   kind="dir">/wtsai9/Assignment1.2/src/chessGame</path>
+<path
+   action="A"
+   kind="dir">/wtsai9/Assignment1.2/src</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.2/images/w_rook.png</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.2/bin/chessGame/Queen.class</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.2/bin/userInterface/GameController.class</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.2/src/chessGame/tests/chessGameTests.java</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.2/images/b_pawn.png</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.2/bin/chessGame/Bishop.class</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.2/bin/chessGame/Knight.class</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.2/.classpath</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.2/src/userInterface/GameInterface.java</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.2/bin/chessGame/King.class</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.2/images/b_rook.png</path>
+<path
+   kind="dir"
+   action="A">/wtsai9/Assignment1.2/images</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.2/bin/userInterface/GameInterface.class</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.2/src/chessGame/Nightrider.java</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.2/images/b_queen.png</path>
+<path
+   action="A"
+   kind="dir">/wtsai9/Assignment1.2/bin/userInterface</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.2/bin/chessGame/Player.class</path>
+<path
+   action="A"
+   kind="dir">/wtsai9/Assignment1.2/bin/chessGame</path>
+<path
+   action="A"
+   kind="dir">/wtsai9/Assignment1.2/bin</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.2/bin/chessGame/Nightrider.class</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.2/src/chessGame/Pawn.java</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.2/src/chessGame/Ferz.java</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.2/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.2/src/chessGame/Pieces.java</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.2/bin/chessGame/Pawn.class</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.2/src/chessGame/Chessboard.java</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.2/src/chessGame/Queen.java</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.2/Manual Test Plan.docx</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.2/bin/chessGame/Rook.class</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.2/bin/chessGame/Chessboard.class</path>
+<path
+   kind="dir"
+   action="A">/wtsai9/Assignment1.2/src/chessGame/tests</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.2/bin/userInterface/GameInterface$1.class</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.2/src/chessGame/Bishop.java</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.2/src/chessGame/Knight.java</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.2/bin/userInterface/GameInterface$2.class</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.2/images/w_queen.png</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.2/bin/userInterface/GameInterface$3.class</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.2/src/chessGame/King.java</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.2/bin/chessGame/tests/chessGameTests.class</path>
+<path
+   action="A"
+   kind="dir">/wtsai9/Assignment1.2</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.2/images/w_bishop.png</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.2/images/w_knight.png</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.2/src/chessGame/Player.java</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.2/images/w_king.png</path>
+</paths>
+<msg>Full game implmented</msg>
+</logentry>
+<logentry
+   revision="4444">
+<author>wtsai9</author>
+<date>2016-09-15T01:12:58.416371Z</date>
+<paths>
+<path
+   action="D"
+   kind="dir">/wtsai9/Assignment1.1/Assignment1.1</path>
+</paths>
+<msg>commited</msg>
+</logentry>
+<logentry
+   revision="4441">
+<author>wtsai9</author>
+<date>2016-09-15T01:02:18.550614Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.1/bin/chessGame/Ferz.class</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.1/bin/chessGame/Pieces.class</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.1/src/chessGame/Chessboard.java</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.1/.project</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.1/Manual Test Plan.docx</path>
+<path
+   kind="dir"
+   action="A">/wtsai9/Assignment1.1/src/chessGame/tests</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.1/src/chessGame/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.1/src/chessGame/Knight.java</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.1/src/chessGame/King.java</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.1/bin/chessGame/Bishop.class</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.1/bin/chessGame/Knight.class</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.1/.classpath</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.1/src/userInterface/GameInterface.java</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.1/images/w_bishop.png</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.1/images/w_knight.png</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.1/src/chessGame/Player.java</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.1/bin/chessGame/King.class</path>
+<path
+   action="A"
+   kind="dir">/wtsai9/Assignment1.1/images</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.1/images/b_queen.png</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.1/images/w_king.png</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.1/bin/chessGame/Player.class</path>
+<path
+   kind="dir"
+   action="A">/wtsai9/Assignment1.1/bin/chessGame/tests</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.1/bin/chessGame/Nightrider.class</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.1/Assignment1.1/Doxyfile</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.1/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.1/images/b_bishop.png</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.1/images/b_knight.png</path>
+<path
+   kind="dir"
+   action="A">/wtsai9/Assignment1.1/.settings</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.1/src/chessGame/Rook.java</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.1/bin/chessGame/Pawn.class</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.1/images/b_king.png</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.1/src/chessGame/Queen.java</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.1/images/w_pawn.png</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.1/bin/chessGame/Rook.class</path>
+<path
+   action="A"
+   kind="dir">/wtsai9/Assignment1.1/src/userInterface</path>
+<path
+   action="A"
+   kind="dir">/wtsai9/Assignment1.1/src/chessGame</path>
+<path
+   action="A"
+   kind="dir">/wtsai9/Assignment1.1/src</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.1/bin/chessGame/Queen.class</path>
+<path
+   action="A"
+   kind="dir">/wtsai9/Assignment1.1/Assignment1.1</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.1/bin/chessGame/Chessboard.class</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.1/images/w_rook.png</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.1/src/chessGame/tests/chessGameTests.java</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.1/images/w_queen.png</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.1/images/b_pawn.png</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.1/bin/chessGame/tests/chessGameTests.class</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.1/images/b_rook.png</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.1/bin/userInterface/GameInterface.class</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.1/src/chessGame/Nightrider.java</path>
+<path
+   kind="dir"
+   action="A">/wtsai9/Assignment1.1/bin/userInterface</path>
+<path
+   action="A"
+   kind="dir">/wtsai9/Assignment1.1/bin/chessGame</path>
+<path
+   action="A"
+   kind="dir">/wtsai9/Assignment1.1/bin</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.1/src/chessGame/Pawn.java</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.1/src/chessGame/Ferz.java</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.1/src/chessGame/Pieces.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4100">
+<author>wtsai9</author>
+<date>2016-09-12T19:22:44.839867Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.1/Doxyfile</path>
+</paths>
+<msg>Doxygen and staic chess game</msg>
+</logentry>
+<logentry
+   revision="4080">
+<author>wtsai9</author>
+<date>2016-09-12T18:51:05.522719Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/wtsai9/Assignment0/Code</path>
+<path
+   kind="dir"
+   action="A">/wtsai9/Assignment1.1</path>
+</paths>
+<msg>Static chessboard added</msg>
+</logentry>
+<logentry
+   revision="3437">
+<author>wtsai9</author>
+<date>2016-09-08T06:24:51.812633Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.0/src/chessGame/Pawn.java</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.0/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   action="A"
+   kind="dir">/wtsai9/Assignment1.0/.settings</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.0/src/chessGame/pieces.java</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.0/bin/chessGame/Pawn.class</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.0/src/chessGame/Rook.java</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.0/bin/chessGame/pieces.class</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.0/src/chessGame/Queen.java</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.0/src/chessGame/chessboard.java</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.0/.project</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.0/bin/chessGame/Rook.class</path>
+<path
+   kind="dir"
+   action="A">/wtsai9/Assignment1.0/src/chessGame</path>
+<path
+   kind="dir"
+   action="A">/wtsai9/Assignment1.0/src</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.0/bin/chessGame/chessboard.class</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.0/bin/chessGame/Queen.class</path>
+<path
+   action="A"
+   kind="dir">/wtsai9/Assignment1.0/src/chessGame/tests</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.0/src/chessGame/tests/chessGameTests.java</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.0/src/chessGame/Knight.java</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.0/src/chessGame/Bishop.java</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.0/src/chessGame/validMove.java</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.0/src/chessGame/King.java</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.0/bin/chessGame/tests/chessGameTests.class</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.0/bin/chessGame/Bishop.class</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment1.0/bin/chessGame/Knight.class</path>
+<path
+   action="A"
+   kind="dir">/wtsai9/Assignment1.0</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.0/.classpath</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.0/bin/chessGame/validMove.class</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment1.0/bin/chessGame/King.class</path>
+<path
+   kind="dir"
+   action="A">/wtsai9/Assignment1.0/bin/chessGame</path>
+<path
+   action="A"
+   kind="dir">/wtsai9/Assignment1.0/bin</path>
+<path
+   action="A"
+   kind="dir">/wtsai9/Assignment1.0/bin/chessGame/tests</path>
+</paths>
+<msg>Piece's move implemented</msg>
+</logentry>
+<logentry
+   revision="2432">
+<author>wtsai9</author>
+<date>2016-09-01T02:52:41.828545Z</date>
+<paths>
+<path
+   action="D"
+   kind="file">/wtsai9/Assignment0/Code/depth_map.cpp</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="2431">
+<author>wtsai9</author>
+<date>2016-09-01T02:52:33.905273Z</date>
+<paths>
+<path
+   action="D"
+   kind="file">/wtsai9/Assignment0/Code/distance_map.cpp</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="2430">
+<author>wtsai9</author>
+<date>2016-09-01T02:52:26.590368Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/wtsai9/Assignment0/Code/CaliRect.cpp</path>
+</paths>
+<msg>Import chess game</msg>
+</logentry>
+<logentry
+   revision="2380">
+<author>wtsai9</author>
+<date>2016-09-01T01:06:28.834713Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/wtsai9/Assignment0/Code/CaliRect.cpp</path>
+</paths>
+<msg>update</msg>
+</logentry>
+<logentry
+   revision="2376">
+<author>wtsai9</author>
+<date>2016-09-01T01:01:35.761699Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/wtsai9/Assignment0/Code/CaliRect.cpp</path>
+</paths>
+<msg>update</msg>
+</logentry>
+<logentry
+   revision="2374">
+<author>wtsai9</author>
+<date>2016-09-01T00:55:00.242055Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/wtsai9/Assignment0/Code</path>
+</paths>
+<msg>delete code</msg>
+</logentry>
+<logentry
+   revision="2285">
+<author>wtsai9</author>
+<date>2016-08-31T21:13:58.493063Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment0/expectedOutput.txt</path>
+<path
+   kind="dir"
+   action="A">/wtsai9/Assignment0</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment0/bin/lanSimulation/internals/Packet.class</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment0/src/lanSimulation/LANSimulation.java</path>
+<path
+   action="A"
+   kind="dir">/wtsai9/Assignment0/src/lanSimulation/internals</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment0/doc/toDoList</path>
+<path
+   kind="dir"
+   action="A">/wtsai9/Assignment0/src/lanSimulation</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment0/grocery/localgrocery/list1.txt</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment0/grocery/localgrocery/list2.txt</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment0/bin/lanSimulation/LANSimulation.class</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment0/grocery/localgrocery/list3.txt</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment0/grocery/localgrocerydup/list1.txt</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment0/grocery/localgrocerydup/list2.txt</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment0/grocery/list1.txt</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment0/src/lanSimulation/tests/LANTests.java</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment0/grocery/list2.txt</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment0/grocery/list3.txt</path>
+<path
+   action="A"
+   kind="dir">/wtsai9/Assignment0/bin/lanSimulation/internals</path>
+<path
+   action="A"
+   kind="dir">/wtsai9/Assignment0/bin/lanSimulation</path>
+<path
+   action="A"
+   kind="dir">/wtsai9/Assignment0/src</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment0/doc/LANSimulationDocument.pdf</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment0/useOutput.txt</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment0/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</path>
+<path
+   kind="dir"
+   action="A">/wtsai9/Assignment0/grocery/localgrocery</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment0/doc/README</path>
+<path
+   action="A"
+   kind="dir">/wtsai9/Assignment0/doc</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment0/javadoc.xml</path>
+<path
+   action="A"
+   kind="dir">/wtsai9/Assignment0/bin</path>
+<path
+   kind="dir"
+   action="A">/wtsai9/Assignment0/grocery/localgrocerydup</path>
+<path
+   kind="dir"
+   action="A">/wtsai9/Assignment0/src/lanSimulation/tests</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment0/doc/RefactoringAssignment.pdf</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment0/src/lanSimulation/internals/Node.java</path>
+<path
+   action="A"
+   kind="dir">/wtsai9/Assignment0/grocery</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment0/src/lanSimulation/Network.java</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment0/bin/lanSimulation/internals/Node.class</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment0/bin/lanSimulation/Network.class</path>
+<path
+   kind="dir"
+   action="A">/wtsai9/Assignment0/bin/lanSimulation/tests</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment0/bin/lanSimulation/tests/LANTests.class</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment0/src/lanSimulation/internals/Packet.java</path>
+</paths>
+<msg>added files</msg>
+</logentry>
+<logentry
+   revision="2284">
+<author>wtsai9</author>
+<date>2016-08-31T21:13:13.263283Z</date>
+<paths>
+<path
+   action="D"
+   kind="file">/wtsai9/test.txt</path>
+<path
+   action="D"
+   kind="dir">/wtsai9/Assignment0</path>
+</paths>
+<msg>deleteall</msg>
+</logentry>
+<logentry
+   revision="2283">
+<author>wtsai9</author>
+<date>2016-08-31T21:12:15.622918Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/wtsai9/test.txt</path>
+</paths>
+<msg>commit</msg>
+</logentry>
+<logentry
+   revision="2274">
+<author>wtsai9</author>
+<date>2016-08-31T21:00:23.373829Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/wtsai9/Assignment</path>
+<path
+   kind="dir"
+   copyfrom-path="/wtsai9/Assignment"
+   copyfrom-rev="2272"
+   action="A">/wtsai9/Assignment0</path>
+</paths>
+<msg>namechanged</msg>
+</logentry>
+<logentry
+   revision="2263">
+<author>wtsai9</author>
+<date>2016-08-31T20:54:55.402860Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/wtsai9/Assignment0</path>
+</paths>
+<msg>Assignment0delete</msg>
+</logentry>
+<logentry
+   revision="2262">
+<author>wtsai9</author>
+<date>2016-08-31T20:54:01.616833Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/wtsai9/expectedOutput.txt</path>
+<path
+   kind="dir"
+   action="D">/wtsai9/doc</path>
+<path
+   kind="file"
+   action="D">/wtsai9/javadoc.xml</path>
+<path
+   action="D"
+   kind="dir">/wtsai9/src</path>
+<path
+   action="D"
+   kind="file">/wtsai9/COPYING</path>
+<path
+   action="D"
+   kind="dir">/wtsai9/bin</path>
+<path
+   action="D"
+   kind="dir">/wtsai9/grocery</path>
+<path
+   kind="file"
+   action="D">/wtsai9/useOutput.txt</path>
+</paths>
+<msg>filesdeleted</msg>
+</logentry>
+<logentry
+   revision="2256">
+<author>wtsai9</author>
+<date>2016-08-31T20:51:45.617053Z</date>
+<paths>
+<path
+   action="D"
+   kind="dir">/wtsai9/wtsai9</path>
+</paths>
+<msg>deletefiles</msg>
+</logentry>
+<logentry
+   revision="2255">
+<author>wtsai9</author>
+<date>2016-08-31T20:51:03.745666Z</date>
+<paths>
+<path
+   action="D"
+   kind="file">/wtsai9/test.txt</path>
+</paths>
+<msg>deleted</msg>
+</logentry>
+<logentry
+   revision="2252">
+<author>wtsai9</author>
+<date>2016-08-31T20:50:15.775712Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/wtsai9/test.txt</path>
+</paths>
+<msg>added</msg>
+</logentry>
+<logentry
+   revision="2231">
+<author>wtsai9</author>
+<date>2016-08-31T20:21:27.150137Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment/Assignment0/bin/lanSimulation/Network.class</path>
+<path
+   kind="dir"
+   action="A">/wtsai9/Assignment/Assignment0/bin/lanSimulation/tests</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment/Assignment0/bin/lanSimulation/tests/LANTests.class</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment/Assignment0/src/lanSimulation/internals/Packet.java</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment/Assignment0/expectedOutput.txt</path>
+<path
+   action="A"
+   kind="dir">/wtsai9/Assignment/Assignment0</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment/Assignment0/bin/lanSimulation/internals/Packet.class</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment/Assignment0/src/lanSimulation/LANSimulation.java</path>
+<path
+   kind="dir"
+   action="A">/wtsai9/Assignment/Assignment0/src/lanSimulation/internals</path>
+<path
+   kind="dir"
+   action="A">/wtsai9/Assignment/Assignment0/src/lanSimulation</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment/Assignment0/doc/toDoList</path>
+<path
+   action="A"
+   kind="dir">/wtsai9/Assignment</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment/Assignment0/grocery/localgrocery/list1.txt</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment/Assignment0/grocery/localgrocery/list2.txt</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment/Assignment0/bin/lanSimulation/LANSimulation.class</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment/Assignment0/grocery/localgrocery/list3.txt</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment/Assignment0/grocery/localgrocerydup/list1.txt</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment/Assignment0/grocery/localgrocerydup/list2.txt</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment/Assignment0/grocery/list1.txt</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment/Assignment0/grocery/list2.txt</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment/Assignment0/src/lanSimulation/tests/LANTests.java</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment/Assignment0/grocery/list3.txt</path>
+<path
+   kind="dir"
+   action="A">/wtsai9/Assignment/Assignment0/bin/lanSimulation/internals</path>
+<path
+   kind="dir"
+   action="A">/wtsai9/Assignment/Assignment0/src</path>
+<path
+   kind="dir"
+   action="A">/wtsai9/Assignment/Assignment0/bin/lanSimulation</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment/Assignment0/useOutput.txt</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment/Assignment0/doc/LANSimulationDocument.pdf</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment/Assignment0/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</path>
+<path
+   action="A"
+   kind="dir">/wtsai9/Assignment/Assignment0/grocery/localgrocery</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment/Assignment0/doc/README</path>
+<path
+   kind="dir"
+   action="A">/wtsai9/Assignment/Assignment0/doc</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment/Assignment0/javadoc.xml</path>
+<path
+   kind="dir"
+   action="A">/wtsai9/Assignment/Assignment0/bin</path>
+<path
+   action="A"
+   kind="dir">/wtsai9/Assignment/Assignment0/src/lanSimulation/tests</path>
+<path
+   action="A"
+   kind="dir">/wtsai9/Assignment/Assignment0/grocery/localgrocerydup</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment/Assignment0/doc/RefactoringAssignment.pdf</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment/Assignment0/src/lanSimulation/internals/Node.java</path>
+<path
+   kind="dir"
+   action="A">/wtsai9/Assignment/Assignment0/grocery</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment/Assignment0/bin/lanSimulation/internals/Node.class</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment/Assignment0/src/lanSimulation/Network.java</path>
+</paths>
+<msg>ass0</msg>
+</logentry>
+<logentry
+   revision="2023">
+<author>wtsai9</author>
+<date>2016-08-31T02:39:50.429169Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/wtsai9/wtsai9/Assignment0/localgrocerydup/list1.txt</path>
+<path
+   kind="file"
+   action="A">/wtsai9/wtsai9/Assignment0/localgrocerydup/list2.txt</path>
+<path
+   action="A"
+   kind="dir">/wtsai9/wtsai9/Assignment0/grocery</path>
+<path
+   action="A"
+   kind="file">/wtsai9/src/lanSimulation/tests/LANTests.java</path>
+<path
+   action="A"
+   kind="dir">/wtsai9/bin/lanSimulation/internals</path>
+<path
+   kind="dir"
+   action="A">/wtsai9/src</path>
+<path
+   kind="dir"
+   action="A">/wtsai9/bin/lanSimulation</path>
+<path
+   kind="dir"
+   action="A">/wtsai9/wtsai9/grocery</path>
+<path
+   kind="file"
+   action="A">/wtsai9/useOutput.txt</path>
+<path
+   action="A"
+   kind="file">/wtsai9/doc/LANSimulationDocument.pdf</path>
+<path
+   action="A"
+   kind="file">/wtsai9/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</path>
+<path
+   action="A"
+   kind="dir">/wtsai9/wtsai9/Assignment0/Assignment0</path>
+<path
+   action="A"
+   kind="file">/wtsai9/doc/README</path>
+<path
+   kind="dir"
+   action="A">/wtsai9/doc</path>
+<path
+   kind="file"
+   action="A">/wtsai9/javadoc.xml</path>
+<path
+   kind="dir"
+   action="A">/wtsai9/wtsai9/Assignment0/localgrocerydup</path>
+<path
+   kind="dir"
+   action="A">/wtsai9/wtsai9/Assignment0</path>
+<path
+   action="A"
+   kind="dir">/wtsai9/bin</path>
+<path
+   action="A"
+   kind="file">/wtsai9/COPYING</path>
+<path
+   action="A"
+   kind="dir">/wtsai9/src/lanSimulation/tests</path>
+<path
+   action="A"
+   kind="file">/wtsai9/doc/RefactoringAssignment.pdf</path>
+<path
+   action="A"
+   kind="file">/wtsai9/src/lanSimulation/internals/Node.java</path>
+<path
+   kind="file"
+   action="A">/wtsai9/bin/lanSimulation/internals/Node.class</path>
+<path
+   kind="file"
+   action="A">/wtsai9/src/lanSimulation/Network.java</path>
+<path
+   kind="dir"
+   action="A">/wtsai9/wtsai9</path>
+<path
+   kind="file"
+   action="A">/wtsai9/wtsai9/Assignment0/grocery/localgrocery/list1.txt</path>
+<path
+   action="A"
+   kind="file">/wtsai9/wtsai9/Assignment0/grocery/localgrocery/list2.txt</path>
+<path
+   action="A"
+   kind="file">/wtsai9/wtsai9/Assignment0/grocery/localgrocery/list3.txt</path>
+<path
+   action="A"
+   kind="file">/wtsai9/bin/lanSimulation/Network.class</path>
+<path
+   kind="file"
+   action="A">/wtsai9/.project</path>
+<path
+   kind="dir"
+   action="A">/wtsai9/bin/lanSimulation/tests</path>
+<path
+   kind="file"
+   action="A">/wtsai9/bin/lanSimulation/tests/LANTests.class</path>
+<path
+   kind="file"
+   action="A">/wtsai9/src/lanSimulation/internals/Packet.java</path>
+<path
+   action="A"
+   kind="file">/wtsai9/wtsai9/Assignment0/grocery/list1.txt</path>
+<path
+   action="A"
+   kind="file">/wtsai9/wtsai9/Assignment0/grocery/list2.txt</path>
+<path
+   action="A"
+   kind="file">/wtsai9/wtsai9/Assignment0/grocery/list3.txt</path>
+<path
+   action="A"
+   kind="file">/wtsai9/expectedOutput.txt</path>
+<path
+   action="A"
+   kind="file">/wtsai9/.classpath</path>
+<path
+   kind="file"
+   action="A">/wtsai9/bin/lanSimulation/internals/Packet.class</path>
+<path
+   kind="file"
+   action="A">/wtsai9/wtsai9/grocery/list1.txt</path>
+<path
+   kind="dir"
+   action="A">/wtsai9/src/lanSimulation/internals</path>
+<path
+   kind="file"
+   action="A">/wtsai9/src/lanSimulation/LANSimulation.java</path>
+<path
+   action="A"
+   kind="file">/wtsai9/wtsai9/grocery/list2.txt</path>
+<path
+   action="A"
+   kind="dir">/wtsai9/src/lanSimulation</path>
+<path
+   action="A"
+   kind="file">/wtsai9/doc/toDoList</path>
+<path
+   action="A"
+   kind="file">/wtsai9/wtsai9/grocery/list3.txt</path>
+<path
+   kind="dir"
+   action="A">/wtsai9/wtsai9/Assignment0/grocery/localgrocery</path>
+<path
+   kind="file"
+   action="A">/wtsai9/bin/lanSimulation/LANSimulation.class</path>
+<path
+   kind="file"
+   action="A">/wtsai9/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="dir"
+   action="A">/wtsai9/.settings</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="1802">
+<author>wtsai9</author>
+<date>2016-08-30T15:53:07.922531Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/wtsai9/Assignment0/localgrocerydup</path>
+<path
+   kind="dir"
+   action="A">/wtsai9/Assignment0/grocery/localgrocery</path>
+<path
+   kind="dir"
+   action="A">/wtsai9/Assignment0</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment0/grocery/list1.txt</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment0/grocery/list2.txt</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment0/grocery/list3.txt</path>
+<path
+   action="A"
+   kind="dir">/wtsai9/Assignment0/Assignment0</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment0/localgrocerydup/list1.txt</path>
+<path
+   action="A"
+   kind="file">/wtsai9/Assignment0/grocery/localgrocery/list1.txt</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment0/localgrocerydup/list2.txt</path>
+<path
+   kind="dir"
+   action="A">/wtsai9/Assignment0/grocery</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment0/grocery/localgrocery/list2.txt</path>
+<path
+   kind="file"
+   action="A">/wtsai9/Assignment0/grocery/localgrocery/list3.txt</path>
+</paths>
+<msg>import Assignment0</msg>
+</logentry>
+<logentry
+   revision="1684">
+<author>wtsai9</author>
+<date>2016-08-30T02:15:52.180226Z</date>
+<paths>
+<path
+   action="D"
+   kind="file">/wtsai9/grocery/list4.txt</path>
+</paths>
+<msg>testing</msg>
+</logentry>
+<logentry
+   revision="1682">
+<author>wtsai9</author>
+<date>2016-08-30T02:14:37.863837Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/wtsai9/grocery/list4.txt</path>
+</paths>
+<msg>testing</msg>
+</logentry>
+<logentry
+   revision="1680">
+<author>wtsai9</author>
+<date>2016-08-30T02:12:58.513072Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/wtsai9/grocery/list3.txt</path>
+</paths>
+<msg>added list of meats</msg>
+</logentry>
+<logentry
+   revision="1678">
+<author>wtsai9</author>
+<date>2016-08-30T02:09:23.335008Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/wtsai9/grocery/list2.txt</path>
+</paths>
+<msg>put emphasis</msg>
+</logentry>
+<logentry
+   revision="1674">
+<author>wtsai9</author>
+<date>2016-08-30T02:07:59.700833Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/wtsai9/grocery/list2.txt</path>
+</paths>
+<msg>commit</msg>
+</logentry>
+<logentry
+   revision="1668">
+<author>wtsai9</author>
+<date>2016-08-30T02:02:06.500652Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/wtsai9/grocery/list2.txt</path>
+</paths>
+<msg>Adding more vegetables</msg>
+</logentry>
+<logentry
+   revision="1468">
+<author>wtsai9</author>
+<date>2016-08-29T19:19:08.484263Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/wtsai9/grocery/list1.txt</path>
+</paths>
+<msg>Need to buy more fruit</msg>
+</logentry>
+<logentry
+   revision="1467">
+<author>wtsai9</author>
+<date>2016-08-29T19:14:56.273449Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/wtsai9/grocery/list2.txt</path>
+<path
+   kind="dir"
+   action="A">/wtsai9/grocery</path>
+<path
+   kind="file"
+   action="A">/wtsai9/grocery/list1.txt</path>
+</paths>
+<msg>importing grocery project</msg>
+</logentry>
+<logentry
+   revision="175">
+<author>root</author>
+<date>2016-08-23T17:56:48.540341Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/wtsai9</path>
+</paths>
+<msg>created directory wtsai9</msg>
+</logentry>
+</log>
